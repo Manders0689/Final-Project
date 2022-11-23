@@ -1,24 +1,34 @@
 # Using Sets is Python
 
-Welcome to the Sets tutorial.
-You will learn how sets work and when to use them.
+Welcome to the Sets tutorial!
 
-## Introduction
+A **set** is type of data structure commonly used in programming. 
+<!--Add more info about what a set is and how they are used-->
 
+### Sets are used to:
+* Find specific values in a list.
+* Save previously calculated results for quick access at a later time.
+* Perform mathematical operations.
 
+<!--Sparse lists, duplicates, etc.-->
 
 ## Hashing
-[Sample Link](Thisishowtopostalink.com)
+<!--Talk about hashing and how to use it-->
+<!--Limitations of hashing-->
 
 ## Conflicts
-![Picture to Display](filename_or_link)
+<!--open addressing-->
+<!--chaining-->
+
+## Key Characteristics
+* Quick way to add, remove, and find specific values.
+* Duplicates cannot be added.
+* No error will be raised when trying to add a duplicate value to a set.
+* Sets will not keep values in order.
 
 ## Example Problem
-1. Ordered List
-2. 
-3. 
+<!--Show how to use sets while programming in Python-->
 
 
 ## Try It Yourself!
-* Bullet
-* Another bullet
+<!--Insert sample problem and link a answer key for user to check.-->
