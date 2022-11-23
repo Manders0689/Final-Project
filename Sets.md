@@ -1,16 +1,16 @@
-# Using Stacks is Python
+# Using Sets is Python
 
-Welcome to the Stacks tutorial.
-You will learn how stacks work and when to use them.
+Welcome to the Sets tutorial.
+You will learn how sets work and when to use them.
 
 ## Introduction
 
 
 
-## Undo Option
+## Hashing
 [Sample Link](Thisishowtopostalink.com)
 
-## Functions and Stacks
+## Conflicts
 ![Picture to Display](filename_or_link)
 
 ## Example Problem
