@@ -71,4 +71,4 @@ print(intersection(set1, set2))
 ## Try It Yourself!
 Perform a union between **set1** and **set2**
 
-You can find the solution here: 
+You can find the solution here: https://github.com/Manders0689/Final-Project/blob/main/union_solution.py
