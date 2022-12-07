@@ -9,6 +9,6 @@ def mystery(text):
         
     return result
 
-print(mystery("racecar"))
-print(mystery("stressed"))
-print(mystery("a nut for a jar of tuna"))
+print(mystery("kayak"))
+print(mystery("reward"))
+print(mystery("mr owl at my metal worm"))

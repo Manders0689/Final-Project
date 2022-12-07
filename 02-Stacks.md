@@ -67,9 +67,9 @@ Use what you have learned about adding, popping, and iterating to solve this pro
 5. Return the new string.
 Add these print statments at the end of your code to test:
 ```Python
-print(mystery_1("racecar")) # result = "racecar"
-print(mystery_1("stressed")) # result = "desserts"
-print(mystery_1("a nut for a jar of tuna")) # result = "anut fo raj a rof tun a"
+print(func("kayak")) # result = "kayak"
+print(func("reward")) # result = "drawer"
+print(func("mr own ate my metal worm")) # result = "mrow latem ym eta nwo rm"
 ```
 
 You can find the solution here: https://github.com/Manders0689/Final-Project/blob/main/stacks_solution.py 
