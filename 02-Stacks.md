@@ -5,14 +5,15 @@ Welcome to the Stacks tutorial!
 A **stack** is a data structure that is most often refered to as a LIFO, which means "Last In, First Out". The order in which items are added and removed is what makes this type of data structure a stack.
 
 Think of a stack of pancakes. As you make them, the first ones get placed on the plate first, but the ones placed last are the ones that get removed from the stack first, as they are the ones on the top. 
+![Image of pancake stack](PancakeStack.png)
 
-### Basic Terminology
+## Basic Terminology
 * Push - to place an item onto the stack.
 * Pop - to remove the last item added from the stack.
 * Back - where a new item is placed when added to the stack.
 * Front - the very first placement in a stack.
 
-### Function Stack
+## Function Stack
 We use stacks when calling functions all the time! This is done by calling a function in our program, then calling another function before the original function ends.
 
 Example 1:
@@ -26,7 +27,7 @@ Out: F, E, D, C, B, A
 
 Last function called, first function finished.
 
-### Using Stacks in Python
+## Using Stacks in Python
 Push an item to the back of the stack:
 * my_stack.append(value)
 

@@ -6,6 +6,7 @@ A **tree** is structure used in programming that links nodes together by pointer
 
 ## Structure of a Tree 
 The top node is called the **root**. A node that has other connected nodes under it is called a **parent**. The nodes under the parent nodes are **child** nodes. A **leaf** is a node that has no other connecting nodes under it. The nodes to the left and right of a parent node are called **subtrees**.
+![image of binary tree structure](Binary_Tree.png)
 
 ## Binary Search Trees (BST)
 When data gets placed into the tree, it is first compared to the value in the parent node. If the data being added is less than the parent node, it will go on to be compared to the next node on the left. If it is greater, it continues down the subtree on the right. It will continue to search and go left or right until there is an open space for the data to be placed.
@@ -166,3 +167,5 @@ tree.insert(0)
 print(tree.get_height()) # 5
 tree.insert(4)
 ```
+
+You can find the solution here: https://github.com/Manders0689/Final-Project/blob/main/trees_solution.py 

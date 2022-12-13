@@ -1,4 +1,4 @@
-def mystery(text):
+def func(text):
     stack = []
     for letter in text:
         stack.append(letter)
@@ -9,6 +9,6 @@ def mystery(text):
         
     return result
 
-print(mystery("kayak"))
-print(mystery("reward"))
-print(mystery("mr owl at my metal worm"))
+print(func("kayak"))
+print(func("reward"))
+print(func("mr owl at my metal worm"))

@@ -5,6 +5,8 @@ Welcome to the Sets tutorial!
 A **set** is type of data structure commonly used in programming.
 
 Unlike other data structures, the order of the data in a set is not important. It is known as a **sparse list** because it is an array that is only partially filled.
+![image of a set](Set.png)
+
 
 ### Sets are used to:
 * Summarizing data.
@@ -18,7 +20,7 @@ Unlike other data structures, the order of the data in a set is not important. I
 The hashing function converts the value of an item to a numerical index value. Python has a built-in hash function. The values returned by the hash function will be different each time that you run it, but will stay the same as you are working with those values. They won't change until the function is run again.
 
 There are limitations to hashing:
-* Python listed cannot me hashed
+* Python listed cannot be hashed
 
 ## Conflicts
 There are two common ways to deal with conflict while using sparse lists:
@@ -51,7 +53,7 @@ Combine values of two sets:
 * new_set = union(set1, set2)
 * new_set = set1 | set2
 
-## Example Problems
+## Example Problem
 Perform an intersection between **set1** and **set2**
 
 ```python
